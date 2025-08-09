@@ -1,4 +1,5 @@
 Medical Imaging Diagnosis Agent Documentation
+medical-imaging-diagnosis-agent09.streamlit.app
 Overview
 The Medical Imaging Diagnosis Agent is a Streamlit-based web application designed for educational and research purposes to analyze medical images using the Google Gemini 1.5 Flash AI model. It provides a user-friendly interface for uploading medical images (e.g., X-rays, MRIs, CT scans), applying image enhancements, and generating detailed AI-driven analyses tailored to specific medical specialties. The application also integrates with the PubMed API to provide research context and maintains a history of analyses for user reference.
 Note: This tool is strictly for educational and research purposes and is not intended for clinical use or medical decision-making.
